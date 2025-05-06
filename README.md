@@ -2,7 +2,7 @@
 
 ## 📌 Descripción
 
-Este es mi **quinto proyecto público de frontend web**, donde aplico lo aprendido en **HTML y CSS**. He utilizado tecnologías y herramientas clave como:
+**Proyecto público de frontend web**, donde aplico lo aprendido en **HTML y CSS**. He utilizado tecnologías y herramientas clave como:
 
 - **Sass**: Uso de variables, anidación y organización de estilos.
 - **Vite**: Para gestionar el entorno de desarrollo y mejorar la velocidad de compilación.
